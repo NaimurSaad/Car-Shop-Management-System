@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|d:\\aiub\\spring 24 -25\\car shop management system\\project\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\orderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\orderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\mcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\mcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\cars2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\cars2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\mcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\mcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\orders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\orders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\cars2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\cars2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\myorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\myorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\myorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\myorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\editprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\editprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\project\\managerviewtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29F6F502-9766-4A3D-AFDB-A70CEF1E213E}|Project\\Project.csproj|solutionrelative:project\\managerviewtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mCars.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\mCars.cs",
+              "RelativeDocumentMoniker": "Project\\mCars.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\mCars.cs",
+              "RelativeToolTip": "Project\\mCars.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwKcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:46:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Reports.cs",
+              "RelativeDocumentMoniker": "Project\\Reports.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Reports.cs",
+              "RelativeToolTip": "Project\\Reports.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:06:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Reports.cs",
+              "RelativeDocumentMoniker": "Project\\Reports.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Reports.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:05:29.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cars2.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Cars2.cs",
+              "RelativeDocumentMoniker": "Project\\Cars2.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Cars2.cs",
+              "RelativeToolTip": "Project\\Cars2.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswFkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:09:48.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mCars.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\mCars.cs",
+              "RelativeDocumentMoniker": "Project\\mCars.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\mCars.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\mCars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:41:03.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Brands.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Brands.cs",
+              "RelativeDocumentMoniker": "Project\\Brands.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\New folder\\Project - Copy\\Project\\Brands.cs [Design]",
+              "RelativeToolTip": "..\\New folder\\Project - Copy\\Project\\Brands.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:14:33.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Orders.cs",
+              "RelativeDocumentMoniker": "Project\\Orders.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Orders.cs",
+              "RelativeToolTip": "Project\\Orders.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:56:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHelper.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\OrderHelper.cs",
+              "RelativeDocumentMoniker": "Project\\OrderHelper.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\OrderHelper.cs",
+              "RelativeToolTip": "Project\\OrderHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:15:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Payment.cs",
+              "RelativeDocumentMoniker": "Project\\Payment.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Payment.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:48:51.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Payment.cs",
+              "RelativeDocumentMoniker": "Project\\Payment.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Payment.cs",
+              "RelativeToolTip": "Project\\Payment.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAADwv2kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:48:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Login.cs",
+              "RelativeDocumentMoniker": "Project\\Login.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Login.cs",
+              "RelativeToolTip": "Project\\Login.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAawDMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:54:38.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Managers.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Managers.cs",
+              "RelativeDocumentMoniker": "Project\\Managers.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Managers.cs",
+              "RelativeToolTip": "Project\\Managers.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAQwNQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:16:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Managers.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Managers.cs",
+              "RelativeDocumentMoniker": "Project\\Managers.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Managers.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Managers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:16:22.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Project\\DataAccess.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\DataAccess.cs",
+              "RelativeToolTip": "Project\\DataAccess.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:27:13.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Loading.cs",
+              "RelativeDocumentMoniker": "Project\\Loading.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Loading.cs",
+              "RelativeToolTip": "Project\\Loading.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:37:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Loading.cs",
+              "RelativeDocumentMoniker": "Project\\Loading.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\New folder\\Project - Copy\\Project\\Loading.cs [Design]",
+              "RelativeToolTip": "..\\New folder\\Project - Copy\\Project\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:01:38.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditProfile.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\EditProfile.Designer.cs",
+              "RelativeDocumentMoniker": "Project\\EditProfile.Designer.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\EditProfile.Designer.cs",
+              "RelativeToolTip": "Project\\EditProfile.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:11:08.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditProfile.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\EditProfile.cs",
+              "RelativeDocumentMoniker": "Project\\EditProfile.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\EditProfile.cs",
+              "RelativeToolTip": "Project\\EditProfile.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAEwHMAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:09:49.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditProfile.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\EditProfile.cs",
+              "RelativeDocumentMoniker": "Project\\EditProfile.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\EditProfile.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\EditProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:09:42.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Colors.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Colors.cs",
+              "RelativeDocumentMoniker": "Project\\Colors.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\New folder\\Project - Copy\\Project\\Colors.cs [Design]",
+              "RelativeToolTip": "..\\New folder\\Project - Copy\\Project\\Colors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:01:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orders.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Orders.Designer.cs",
+              "RelativeDocumentMoniker": "Project\\Orders.Designer.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Orders.Designer.cs",
+              "RelativeToolTip": "Project\\Orders.Designer.cs",
+              "ViewState": "AgIAAIoDAAAAAAAAAAAcwJkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:57:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Orders.cs",
+              "RelativeDocumentMoniker": "Project\\Orders.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Orders.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:56:32.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyOrder.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\MyOrder.cs",
+              "RelativeDocumentMoniker": "Project\\MyOrder.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\MyOrder.cs",
+              "RelativeToolTip": "Project\\MyOrder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:47:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyOrder.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\MyOrder.cs",
+              "RelativeDocumentMoniker": "Project\\MyOrder.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\New folder\\Project - Copy\\Project\\MyOrder.cs [Design]",
+              "RelativeToolTip": "..\\New folder\\Project - Copy\\Project\\MyOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:47:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\UserHelper.cs",
+              "RelativeDocumentMoniker": "Project\\UserHelper.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\UserHelper.cs",
+              "RelativeToolTip": "Project\\UserHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:46:45.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cars2.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Cars2.cs",
+              "RelativeDocumentMoniker": "Project\\Cars2.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Cars2.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Cars2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:09:45.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Colors.cs",
+              "RelativeDocumentMoniker": "Project\\Colors.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Colors.cs",
+              "RelativeToolTip": "Project\\Colors.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJ4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:31:37.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Customers.cs",
+              "RelativeDocumentMoniker": "Project\\Customers.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Customers.cs",
+              "RelativeToolTip": "Project\\Customers.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBgAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:57:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Customers.cs",
+              "RelativeDocumentMoniker": "Project\\Customers.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Customers.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:57:12.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\SignUp.cs",
+              "RelativeDocumentMoniker": "Project\\SignUp.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\SignUp.cs",
+              "RelativeToolTip": "Project\\SignUp.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwDUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:41:05.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cars.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Cars.cs",
+              "RelativeDocumentMoniker": "Project\\Cars.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Cars.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Cars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:36:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Cars.cs",
+              "RelativeDocumentMoniker": "Project\\Cars.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Cars.cs",
+              "RelativeToolTip": "Project\\Cars.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwHMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:39:55.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManagerViewTemplate.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\ManagerViewTemplate.cs",
+              "RelativeDocumentMoniker": "Project\\ManagerViewTemplate.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\New folder\\Project - Copy\\Project\\ManagerViewTemplate.cs [Design]",
+              "RelativeToolTip": "..\\New folder\\Project - Copy\\Project\\ManagerViewTemplate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:17:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Login.cs",
+              "RelativeDocumentMoniker": "Project\\Login.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:47:44.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\SignUp.cs",
+              "RelativeDocumentMoniker": "Project\\SignUp.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Project - Copy\\Project\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\Project - Copy\\Project\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:41:03.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "D:\\AIUB\\Spring 24 -25\\Car Shop Management System\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:34:58.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
